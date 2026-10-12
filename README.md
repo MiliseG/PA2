@@ -1,36 +1,41 @@
+
 # README — Evaluación
 
-> **Curso:**  ALGORITMO Y ESTRUCTURA DE DATOS BASADOS EN INTELIGENCIA ARTIFICIAL 
+> **Curso:** ALGORITMO Y ESTRUCTURA DE DATOS BASADOS EN INTELIGENCIA ARTIFICIAL
 > **Código:** 4682
 > **Evaluación:** PA2
-> **Equipo:** [Grupo 3]  
+> **Equipo:** Grupo 3
 
 ## 1. Integrantes
 
 | Integrante | Rol | Aporte principal |
 |---|---|---|
-| Milisé Garcia Quezada | [Desarrollo de actividades 1, 2, 3, 4] | [Aporte] |
-| [Nombre 2] | [Rol] | [Aporte] |
-| [Nombre 3] | [Rol] | [Aporte] |
-| [Nombre 4] | [Rol] | [Aporte] |
-| [Nombre 5] | [Rol] | [Aporte] |
+| Milisé Garcia Quezada | Desarrollo de actividades 1, 2, 3, 4 | Aporte |
+| Nombre 2 | Rol | Aporte |
+| Nombre 3 | Rol | Aporte |
+| Nombre 4 | Rol | Aporte |
+| Nombre 5 | Rol | Aporte |
 
--- El trabajo fue realizado de manera individual porque mis compañeros de grupo nunca se comunicaron. --
+---
+
+El trabajo fue realizado de manera individual porque mis compañeros de grupo nunca se comunicaron.
 
 ## 2. Descripción y objetivo
 
 **Problema:**
+
 La organización necesita gestionar solicitudes de atención que cambian constantemente, ya que pueden ingresar nuevos casos, eliminarse solicitudes existentes o requerirse la navegación entre ellas en distintos sentidos.
+
 **Objetivo:**
+
 Aplicar estructuras de datos dinámicas mediante listas enlazadas para representar y gestionar solicitudes de atención, implementando operaciones de recorrido, inserción, búsqueda, modificación y eliminación.
+
 **Solución desarrollada:**
+
 Se desarrollaron algoritmos en Java para trabajar con una lista enlazada simple y se analizaron las ventajas de utilizar listas doblemente enlazadas y circulares según las necesidades del caso. Además, se incluyeron representaciones gráficas y explicaciones de las operaciones realizadas.
 
 ## 3. Cómo ejecutar o revisar
 
-```bash
-# Escribir aquí los comandos necesarios
-```
 
 ## Actividad 1. Fundamentos y representación de listas enlazadas
 1.1 Expliquen qué es una lista enlazada, cómo se clasifica y cuál es su representación gráfica básica.
@@ -528,5 +533,3 @@ Es más adecuada cuando se necesita revisar las solicitudes repetidamente, porqu
 
 
 **Última actualización:** [12/10/2026]
-#   P A 2  
- 
