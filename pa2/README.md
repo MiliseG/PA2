@@ -1,36 +1,41 @@
+
 # README — Evaluación
 
-> **Curso:**  ALGORITMO Y ESTRUCTURA DE DATOS BASADOS EN INTELIGENCIA ARTIFICIAL 
+> **Curso:** ALGORITMO Y ESTRUCTURA DE DATOS BASADOS EN INTELIGENCIA ARTIFICIAL
 > **Código:** 4682
 > **Evaluación:** PA2
-> **Equipo:** [Grupo 3]  
+> **Equipo:** Grupo 3
 
 ## 1. Integrantes
 
 | Integrante | Rol | Aporte principal |
 |---|---|---|
-| Milisé Garcia Quezada | [Desarrollo de actividades 1, 2, 3, 4] | [Aporte] |
-| [Nombre 2] | [Rol] | [Aporte] |
-| [Nombre 3] | [Rol] | [Aporte] |
-| [Nombre 4] | [Rol] | [Aporte] |
-| [Nombre 5] | [Rol] | [Aporte] |
+| Milisé Garcia Quezada | Desarrollo de actividades 1, 2, 3, 4 | Desarrollo de actividades 1, 2, 3, 4 |
+| Nombre 2 | Rol | Aporte |
+| Nombre 3 | Rol | Aporte |
+| Nombre 4 | Rol | Aporte |
+| Nombre 5 | Rol | Aporte |
 
--- El trabajo fue realizado de manera individual porque mis compañeros de grupo nunca se comunicaron. --
+---
+
+El trabajo fue realizado de manera individual porque mis compañeros de grupo nunca se comunicaron.
 
 ## 2. Descripción y objetivo
 
 **Problema:**
+
 La organización necesita gestionar solicitudes de atención que cambian constantemente, ya que pueden ingresar nuevos casos, eliminarse solicitudes existentes o requerirse la navegación entre ellas en distintos sentidos.
+
 **Objetivo:**
+
 Aplicar estructuras de datos dinámicas mediante listas enlazadas para representar y gestionar solicitudes de atención, implementando operaciones de recorrido, inserción, búsqueda, modificación y eliminación.
+
 **Solución desarrollada:**
+
 Se desarrollaron algoritmos en Java para trabajar con una lista enlazada simple y se analizaron las ventajas de utilizar listas doblemente enlazadas y circulares según las necesidades del caso. Además, se incluyeron representaciones gráficas y explicaciones de las operaciones realizadas.
 
 ## 3. Cómo ejecutar o revisar
 
-```bash
-# Escribir aquí los comandos necesarios
-```
 
 ## Actividad 1. Fundamentos y representación de listas enlazadas
 1.1 Expliquen qué es una lista enlazada, cómo se clasifica y cuál es su representación gráfica básica.
@@ -522,11 +527,9 @@ Es más adecuada cuando se necesita revisar las solicitudes repetidamente, porqu
 
 ## 7. Conclusiones
 
-1. Las listas enlazadas permiten organizar información y agregar o eliminar datos fácilmente.
-2. Aprendim a recorrer, buscar, modificar e insertar datos dentro de una lista enlazada.
-3. Comprendi que las listas simples, dobles y circulares se utilizan según las necesidades del problema, como avanzar, retroceder o revisar los datos continuamente.
+1. Las listas enlazadas permiten organizar información de manera dinámica, facilitando la inserción y eliminación de datos.
+2. Las operaciones de búsqueda, recorrido y modificación ayudan a gestionar las solicitudes de atención de forma ordenada.
+3. Las listas simples, dobles y circulares ofrecen diferentes ventajas según la necesidad de avanzar, retroceder o revisar las solicitudes continuamente.
 
 
 **Última actualización:** [12/10/2026]
-#   P A 2  
- 

@@ -527,9 +527,9 @@ Es más adecuada cuando se necesita revisar las solicitudes repetidamente, porqu
 
 ## 7. Conclusiones
 
-1. Las listas enlazadas permiten organizar información y agregar o eliminar datos fácilmente.
-2. Aprendim a recorrer, buscar, modificar e insertar datos dentro de una lista enlazada.
-3. Comprendi que las listas simples, dobles y circulares se utilizan según las necesidades del problema, como avanzar, retroceder o revisar los datos continuamente.
+1. Las listas enlazadas permiten organizar información de manera dinámica, facilitando la inserción y eliminación de datos.
+2. Las operaciones de búsqueda, recorrido y modificación ayudan a gestionar las solicitudes de atención de forma ordenada.
+3. Las listas simples, dobles y circulares ofrecen diferentes ventajas según la necesidad de avanzar, retroceder o revisar las solicitudes continuamente.
 
 
 **Última actualización:** [12/10/2026]
