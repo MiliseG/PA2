@@ -10,7 +10,7 @@
 
 | Integrante | Rol | Aporte principal |
 |---|---|---|
-| Milisé Garcia Quezada | Desarrollo de actividades 1, 2, 3, 4 | Aporte |
+| Milisé Garcia Quezada | Desarrollo de actividades 1, 2, 3, 4 | Desarrollo de actividades 1, 2, 3, 4 |
 | Nombre 2 | Rol | Aporte |
 | Nombre 3 | Rol | Aporte |
 | Nombre 4 | Rol | Aporte |
